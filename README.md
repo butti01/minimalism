@@ -1,2 +1,2 @@
-# minimalism
-HP
+＃ミニマリズム
+個人のHP
